@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test;
 
 
 class CalculatorMultiTest {
-    @Test
 
     @Test
     public void multiTest(){
