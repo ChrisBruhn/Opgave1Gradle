@@ -12,7 +12,7 @@ class CalculatorMultiTest {
         Assertions.assertEquals(16,result);
 
     }
-
+    @Test
     public void multiZeroTest(){
         Calculator calculator = new Calculator();
         int result = calculator.multiply(0,2);
